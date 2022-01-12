@@ -16,7 +16,7 @@ numpy==1.19.1
 objectpath==0.6.1
 pandas==1.0.1
 Pillow==7.2.0
-pipenv==2020.6.2
+pipenv==2022.1.8
 pipreqs==0.4.10
 pyparsing==2.4.7
 python-dateutil==2.8.1
